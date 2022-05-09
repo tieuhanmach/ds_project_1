@@ -40,6 +40,7 @@ After bunch of coding and analyzing, I come into bellow conclutions:
 - The most frequent amenities also relates to most expensive house price - elevator, gym, wheelchair accessible, doorman, pool.
 - Dorm is the cheapest type and boat has an outstanding hight price compare with others.
 - Entire home/apt is the most expensive room type, while tent-shared room and loft-shared room are the least expensive.
-- There's not much difference in price between bed type in the same room type, but real bed seem to be the most expensive bed type.
-A blog post that contains conclusions from this project
+- There's not much difference in price between bed type in the same room type, but real bed is the most expensive bed type.
+
+A blog post that contains conclusions from this project: https://seattlehouseprice.blogspot.com/2022/05/a-deep-dive-into-seattle-house-rent.html
 
