@@ -19,20 +19,13 @@ This project use built-in libraries for data wrangling, data visualization and d
 `import seaborn as sns`
 
 `from sklearn.linear_model import LinearRegression`
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> ec5704d18d5e7edfe685bc01818c2c34c21d902c
 `from sklearn.model_selection import train_test_split`
 
 `from sklearn.metrics import r2_score, mean_squared_error`
 
-<<<<<<< HEAD
 `import datetime`
 
-=======
->>>>>>> ec5704d18d5e7edfe685bc01818c2c34c21d902c
 `%matplotlib inline`
 
 ## **Table of content**
@@ -41,10 +34,12 @@ This project use built-in libraries for data wrangling, data visualization and d
 
 ## Conclusion
 After bunch of coding and analyzing, I come into bellow conclutions:
-1. Rainier Beach is the neighbourhood having the cheapest price and Southeast Magnolia is the one having most expensive price
-Most of the price is in range of $200, there are some outstanding value in the center of Seattle. There are more properities in the North than in the South
-2. Phone, email, review are the most frequent verification method that a host used. In contrast, manual online, sent_id and linkedint are the methods of highest price. All the numeric variables of host are not corrolated well with price.
-3. The most frequent amenities also relates to most expensive house price - elevator, gym, wheelchair accessible, doorman, pool.
-4. Dorm is the cheapest type and boat has an outstanding hight price compare with others.
-Entire home/apt is the most expensive room type, while tent-shared room and loft-shared room are the least expensive.
-The price of entire hone/apt is still the highest for all kind of bed. Couch and real bed are the types that most expensive in entire home, while pull-out sofa is the most luxury for shared room. There's not much difference in price between bed type in the same room type, but real bed seem to be the most expensive bed type.
+1. Neighbourhood: Most of the price is in range of $200, there are some outstanding value in the center of Seattle. There are more properities in the North than in the South
+2. Host: Phone, email, review are the most frequent verification method that a host used. In contrast, manual online, sent_id and linkedint are the methods of highest price. 
+3. Property's feature: 
+- The most frequent amenities also relates to most expensive house price - elevator, gym, wheelchair accessible, doorman, pool.
+- Dorm is the cheapest type and boat has an outstanding hight price compare with others.
+- Entire home/apt is the most expensive room type, while tent-shared room and loft-shared room are the least expensive.
+- There's not much difference in price between bed type in the same room type, but real bed seem to be the most expensive bed type.
+A blog post that contains conclusions from this project
+
