@@ -19,13 +19,20 @@ This project use built-in libraries for data wrangling, data visualization and d
 `import seaborn as sns`
 
 `from sklearn.linear_model import LinearRegression`
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> ec5704d18d5e7edfe685bc01818c2c34c21d902c
 `from sklearn.model_selection import train_test_split`
 
 `from sklearn.metrics import r2_score, mean_squared_error`
 
+<<<<<<< HEAD
 `import datetime`
 
+=======
+>>>>>>> ec5704d18d5e7edfe685bc01818c2c34c21d902c
 `%matplotlib inline`
 
 ## **Table of content**
