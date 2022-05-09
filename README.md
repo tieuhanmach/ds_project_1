@@ -9,14 +9,22 @@ This project is used to answer my 3 question regarding Airbnb activity in Seattl
 
 ## **Libraries**
 This project use built-in libraries for data wrangling, data visualization and data modeling:
-`import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, mean_squared_error
-%matplotlib inline`
+
+`import pandas as pd`
+
+`import numpy as np`
+
+`import matplotlib.pyplot as plt`
+
+`import seaborn as sns`
+
+`from sklearn.linear_model import LinearRegression`
+ 
+`from sklearn.model_selection import train_test_split`
+
+`from sklearn.metrics import r2_score, mean_squared_error`
+
+`%matplotlib inline`
 
 ## **Table of content**
 1. **data** contains data files that used in project
